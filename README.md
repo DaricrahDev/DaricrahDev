@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DaricrahDev
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Rec Room Inc.
+- 💞️ I’m looking to collaborate on Microsoft
 - 📫 How to reach me daricrack.gamer@gmail.com
 
 <!---
