@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @DaricrahDev
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning LUA
-- 💞️ I’m looking to collaborate on Google Chrome
+- 👀 I’m interested in programming and arts
+- 🌱 I’m currently learning JS
 - 📫 How to reach me daricrack.gamer@gmail.com
-- ✍🏼 Currently working on being a HAXE proffesional
+- ✍🏼 Currently working on being a Haxe proffesional
 
 <!---
 DaricrahDev/DaricrahDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
